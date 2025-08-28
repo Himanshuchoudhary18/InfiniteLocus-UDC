@@ -1,0 +1,24 @@
+// ScrollByVisibleElement(NewLocation.FranchiseOwner, "Scrolled to Franchise Owner Email address");
+            // enterCharacter(NewLocation.FranchiseOwner, "Sachin", "Franchise Owner is added");
+            // jsClick(NewLocation.NewFeeButton, "New Fee Button is clicked");
+            // waitInMillis(1000);
+            // jsClick(NewLocation.CalendarFilter, "Calendar Filter clicked");
+            // jsClick(NewLocation.CalendarFilterDateSelected, "Calendar Date from filter is selected");
+            // enterCharacter(NewLocation.Royality, "10", "Royality Percentage is added");
+            // enterCharacter(NewLocation.AdvertisingFund, "10", "Advertising Fund is added");
+            // enterCharacter(NewLocation.PhoneServices, "10", "Phone Services is added");
+            // waitInMillis(1000);
+            // if (verifyElementIsEnabled(NewLocation.DeleteButton, "Delete Button is present"))
+            // {
+            //     jsClick(NewLocation.DeleteButton, "Delete Button clicked");
+            // }
+            // else
+            // {
+            //     System.out.println("Delete Button not present");
+            // }
+            // waitInMillis(1000);
+            // jsClick(NewLocation.AddButton, "Add Button is clicked");
+            // waitInMillis(1000);
+            // ScrollByVisibleElement(NewLocation.CreateButton, "Scrolled up to Create Button");
+            // waitInMillis(1000);
+            // jsClick(NewLocation.CreateButton, "Submit Button is clicked");
