@@ -1,0 +1,16 @@
+[
+  {
+    "id": 17,
+    "slug": "casual-black-blue",
+    "name": "Casual Black & Blue",
+    "description": "Some casual black & blue glasses",
+    "price": 24.99
+  },
+  {
+    "id": 19,
+    "slug": "black-and-red-glasses",
+    "name": "Black and Red",
+    "description": "A Black & Red glasses case",
+    "price": 18.99
+  }
+]
